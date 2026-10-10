@@ -4,7 +4,7 @@
 
 👁️ **Privacy and tracking**: [Unequal exposure to online tracking](https://github.com/themains/private_blacklight), [Tracking on government websites](https://github.com/themains/private_gov).
 
-🔓 **Data breaches and passwords**: [Breach exposure among Americans](https://github.com/themains/pwned), [Evidence from voter-registration emails](https://github.com/themains/reg_breach), [Politician email exposure](https://github.com/themains/pwned_pols), [Password-generation research](https://github.com/themains/password), [Password predictability from usernames](https://github.com/themains/guesspass).
+🔓 **Data breaches and passwords**: [Breach exposure among Americans](https://github.com/themains/pwned_survey), [Evidence from voter-registration emails](https://github.com/themains/pwned_voters), [Politician email exposure](https://github.com/themains/pwned_pols), [Password-generation research](https://github.com/themains/password), [Password predictability from usernames](https://github.com/themains/guesspass).
 
 🛡️ **Website and IP security**: [IP information and reputation](https://github.com/themains/know-your-ip), [VirusTotal from R](https://github.com/themains/virustotal), [Exposure to malicious websites](https://github.com/themains/bad_domains), [Email impersonation risks at national institutions](https://github.com/themains/open_house), [Government website security](https://github.com/themains/secure_gov), [Abusive IP reports](https://github.com/themains/abuse_ip_db).
 
